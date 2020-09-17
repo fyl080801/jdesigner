@@ -1,5 +1,5 @@
 <template>
-  <div>init</div>
+  <div class="j-designer">init</div>
 </template>
 
 <script>
