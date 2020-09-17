@@ -1,9 +1,9 @@
 <template>
-  <div class="home"></div>
+  <div>init</div>
 </template>
 
 <script>
 export default {
-  name: 'Home'
+  name: 'j-designer'
 }
 </script>
